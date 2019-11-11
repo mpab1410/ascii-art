@@ -1,0 +1,24 @@
+{
+  "name": "ascii-art",
+  "version": "1.0.0",
+  "description": "A project where I make an image and interpret it in ASCII",
+  "main": "./bin/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/app"
+  },
+  "keywords": [
+    "ascii"
+  ],
+  "author": "Michael Bailey <github: mpab1410>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.0.0",
+    "jimp": "^0.8.5"
+  },
+  "bin": {
+    "ascii-art": "./bin/app.js"
+  },
+  "preferGlobal": true
+}
