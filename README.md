@@ -31,5 +31,5 @@ Options:
 You can contribute to the project simply by forking this repo and submitting a pull request.
 
 ## Donation
-You absolutely shouldn't donate for this piece of software, as it's stupid simple and is probably a good assignment for a freshman level intro to programming class, but if you have some money burning a hole in your pocket, this made your day or hour or whatever, and you would like to buy me a coffee, beer, etc., you can find my Ko-fi page here: ko-fi.com/mpab1410
+You absolutely shouldn't donate for this piece of software, as it's stupid simple and is probably a good assignment for a freshman level intro to programming class, but if you have some money burning a hole in your pocket, this made your day or hour or whatever, and you would like to buy me a coffee, beer, etc., you can find my Ko-fi page here: https://ko-fi.com/mpab1410
 Again, this is probably good practice for programming at home and doesn't really consitiute a donation, but if you do donate, thank you very much, I appreciate it!
