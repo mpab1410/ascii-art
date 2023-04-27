@@ -2,6 +2,7 @@
 const Jimp = require('jimp');
 const chalk = require('chalk');
 const program = require('commander');
+const proc = require('child_process');
 
 // options: help, color, method, invert
 
@@ -13,6 +14,7 @@ program
     .option('-i, --inverse', 'inverts the brightness index of the ASCII char. does not affect color')
     .action(async (path, options) => {
         try {
+            proc.exec(options.method);
             let asciiImage = await imgToAscii(path, options.method, options.color, options.inverse);
             console.log(asciiImage);
         } catch (err) {
