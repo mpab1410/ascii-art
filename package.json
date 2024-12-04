@@ -15,7 +15,7 @@
   "dependencies": {
     "chalk": "^3.0.0",
     "commander": "^4.0.0",
-    "jimp": "^0.8.5"
+    "jimp": "^0.22.7"
   },
   "bin": {
     "ascii-art": "./bin/app.js"
